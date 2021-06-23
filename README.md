@@ -1,0 +1,2 @@
+# vruz
+mining
